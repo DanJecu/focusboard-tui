@@ -1,0 +1,21 @@
+# Compiled binary
+focusboard-tui
+
+# Data files
+todos.json
+
+# Documentation/Agent files
+AGENTS.md
+
+# IDE/Editor directories
+.claude/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage.out
+*.coverprofile
