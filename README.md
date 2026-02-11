@@ -4,6 +4,8 @@ I spend a lot of time in the terminal. After trying different tools for keeping 
 
 Since I started learning Go, I figured building a TUI app for project management would be a perfect way to practice. So here we are.
 
+![FocusBoard TUI Demo](assets/screenshots/demo.png)
+
 ## Features
 
 - Multiple projects with separate todo lists
