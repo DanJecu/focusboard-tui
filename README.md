@@ -12,6 +12,7 @@ Since I started learning Go, I figured building a TUI app for project management
 - Add, edit, and delete projects/todos
 - Mark todos as complete/incomplete
 - Attach links to todos (I use this mainly to link tasks with PRs when I want to check later why I made certain decisions)
+- Respects terminal color scheme (adapts to light/dark themes)
 - Everything stored in a local JSON file
 
 ## Installation
